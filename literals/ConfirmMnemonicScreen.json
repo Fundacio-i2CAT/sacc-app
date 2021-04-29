@@ -1,0 +1,15 @@
+{
+  "cat": {},
+  "en": {
+    "loading": "Loading...",
+    "tapWords": "Tap the words in the correct order",
+    "verificationFailed": "Verification failed. Please, tap the words again in the correct order. Press Reset to tap the words again or press back to review your mnemonic.",
+    "verificationSuccessful": "Mnemonic verification successful! Please, introduce a password and tap on finish. This will allow you to visualize your mnemonic afterwards.",
+    "passwordVerificationFailed": "Password verification failed. Please, introduce a password that has at least 8 characters or numbers.",
+    "resetButton": "RESET",
+    "confirmButton": "CONFIRM",
+    "password": "Password",
+    "repeatPassword": "Repeat password",
+    "finishButton": "FINISH"
+  }
+}

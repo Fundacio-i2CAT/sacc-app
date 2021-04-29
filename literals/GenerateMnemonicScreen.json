@@ -1,0 +1,11 @@
+{
+  "cat": {},
+  "en": {
+    "loading": "Loading...",
+    "noteDownWarning": "Please, note down in order the words displayed. Do not show these words to anyone as they represent your private key. You will be asked to introduce them.",
+    "generateMnemonic": "Press Generate Mnemonic to start creating your personal wallet!",
+    "generateMnemonicButton": "GENERATE MNEMONIC",
+    "revealMnemonicButton": "REVEAL MNEMONIC",
+    "continueButton": "CONTINUE >"
+  }
+}

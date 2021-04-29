@@ -1,0 +1,30 @@
+{
+  "cat": {},
+  "en": {
+    "introduceMnemonic1": "Please, introduce the ",
+    "introduceMnemonic2": " word of your 12 word mnemonic:",
+    "confirmMnemonic": "Please, confirm your mnemonic",
+    "order": [
+      "first",
+      "second",
+      "third",
+      "fourth",
+      "fifth",
+      "sixth",
+      "seventh",
+      "eighth",
+      "nineth",
+      "tenth",
+      "eleventh",
+      "last"
+    ],
+    "backButton": "< BACK",
+    "continueButton": "CONTINUE >",
+    "confirmButton": "CONFIRM",
+    "finishButton": "FINISH",
+    "notificationPassword": "Mnemonic verification successful! Please, introduce a password and tap on finish. This will allow you to visualize your mnemonic afterwards.",
+    "notificationPasswordFailed": "Password verification failed. Please, introduce a password that has at least 8 characters or numbers.",
+    "password": "Password",
+    "repeatPassword": "Repeat password"
+  }
+}

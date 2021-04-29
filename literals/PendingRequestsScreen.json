@@ -1,0 +1,15 @@
+{
+  "cat": {
+    "acceptButton": "Acceptar",
+    "rejectButton": "Rebutjar",
+    "context": "En el context del projecte",
+    "cancelButton": "Cancel·lar",
+    "modalAccept": "Està segur que desitja proporcionar accés a les seves dades mèdiques? Podrá revocar-ne l'accés posteriorment",
+    "modalReject": "Està segur que desitja rebutjar la petició d'accés a les seves dades mèdiques per part de ",
+    "loading": "Estem carregant les seves sol·licituts d'accés!",
+    "processing": "Estem processant la seva petició a la Blockchain!",
+    "noAccessRequests": "No hi ha sol·licituts d'accés als seus registres mèdics",
+    "accessRequests": "Sol·licituds d'accés als meus registres mèdics:"
+  },
+  "en": {}
+}

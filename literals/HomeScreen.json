@@ -1,0 +1,17 @@
+{
+  "cat": {
+    "createWalletButton": "CREA UNA NOVA CARTERA"
+  },
+  "en": {
+    "loadingWallet": "Hang in there, we are loading your wallet!",
+    "modalLogingOut": "Please, have in mind that if you want to recover your wallet after logging out you will be asked to introduce your mnemonic",
+    "welcomeWallet": "Welcome to your wallet!",
+    "chooseService": "Please, choose a service to start:",
+    "saluscoopService": "Contribute to Health Research!",
+    "revealMnemonicButton": "REVEAL MNEMONIC",
+    "logoutButton": "LOGOUT",
+    "createWalletButton": "CREATE A NEW WALLET",
+    "recoverWalletButton": "RECOVER WALLET",
+    "copyAddressButton": "COPY ADDRESS TO CLIPBOARD"
+  }
+}

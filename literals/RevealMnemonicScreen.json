@@ -1,0 +1,8 @@
+{
+  "cat": {},
+  "en": {
+    "introducePassword": "Introduce your password to reveal your mnemonic",
+    "revealButton": "REVEAL",
+    "incorrectPassword": "Incorrect password"
+  }
+}

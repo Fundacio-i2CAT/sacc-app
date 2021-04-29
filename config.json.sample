@@ -1,0 +1,9 @@
+{
+  "contractAddress": "0x41B301c0b0AbbFEef99803c23A281712e29B6EF1",
+  "ethereumRPCURL": "",
+  "backendURL": "",
+  "ipfsUrl": "",
+  "ipfsAPI": "",
+  "webViewURL": "",
+  "ipfsContingency": true
+}

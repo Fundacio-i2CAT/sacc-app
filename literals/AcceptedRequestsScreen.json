@@ -1,0 +1,12 @@
+{
+  "cat": {
+    "revokeButton": "Revocar",
+    "cancelButton": "Cancel·lar",
+    "modalRevoke": "Està segur que desitja revocar l'accés a les seves dades mèdiques per part de ",
+    "context": "En el context del projecte ",
+    "loading": "Estem carregant les sol·licituts d'accés acceptades!",
+    "noGrantedRequests": "Cap institució de recerca té accés als teus registres mèdics",
+    "grantedRequests": "Les institucions de recerca següents tenen accés als meus registres mèdics:"
+  },
+  "en": {}
+}

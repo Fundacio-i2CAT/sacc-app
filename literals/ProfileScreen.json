@@ -1,0 +1,27 @@
+{
+  "en": {},
+  "cat": {
+    "loading": "Estem carregant el seu perfil",
+    "invalidPhone": "Procés de registre erroni. Si us plau, informi un telefon vàlid al territori espanyol.",
+    "okButton": "D'ACORD",
+    "myData": "Les meves dades...",
+    "myTopics": "Els meus tòpics...",
+    "surnames": "Cognoms",
+    "name": "Nom",
+    "email": "E-mail",
+    "phone": "Telèfon",
+    "backButton": "< ENRERE",
+    "updateButton": "ACTUALITZAR DADES",
+    "updateTopicsButton": "ACTUALITZAR TOPICS",
+    "myProfile": "El meu perfil",
+    "editButton": "Editar dades",
+    "editTopicsButton": "Editar tòpics",
+    "generateProofButton": "Generar prova",
+    "unregisterButton": "Eliminar compte",
+    "unregisterText": "Eliminar el teu compte impedirà a les institucions de recerca accedir a les dades que has donat. Aquest procés és irreversible.",
+    "unregisterCancelButton": "Cancel·lar",
+    "noTopicsAvailable": "No hi ha topics disponibles",
+    "keys": ["Nom", "Cognoms", "Email", "Telèfon", "Adreça"],
+    "processing": "Estem eliminant el teu compte!"
+  }
+}
